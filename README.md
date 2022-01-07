@@ -8,8 +8,11 @@
   <img align="right" src="https://metrics.lecoq.io/taozhi1010?template=terminal" />
 </a>
 
-### TaoZhi1010 👋
+# TaoZhi1010 👋
+```
+谢谢你来看我哦！
+```
+![](https://visitor-badge.glitch.me/badge?page_id=taozhi100)
 
 <img width="340px" src="https://github-readme-stats.vercel.app/api?username=taozhi1010&theme=vue-dark&count_private=true&show_icons=true">
 <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taozhi1010&theme=vue-dark&layout=compact">
-
